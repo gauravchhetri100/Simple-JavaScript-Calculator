@@ -22,4 +22,5 @@ A basic calculator built with HTML, CSS, and JavaScript. Supports operations lik
 
 1. Clone the repository:
    ```bash
-https://github.com/gauravchhetri100
+   github.com/gauravchhetri100/Simple-JavaScript-Calculator
+
