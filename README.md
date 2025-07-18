@@ -22,4 +22,4 @@ A basic calculator built with HTML, CSS, and JavaScript. Supports operations lik
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-project.git
+https://github.com/gauravchhetri100
